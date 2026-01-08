@@ -1,7 +1,7 @@
 
 ## Overview
 This page describes the FIWARE vision and roadmap on Digital Twins, from fundamental concepts to advanced orchestration. It starts with the [digital twin concpet](#digital-twin-concept), followed by the 
-[NGSI-LD Information model](#ngsi-ld-information-model-for-modelling-digital-twins) for formally modeling Digital Twins and the [NGSI-LD API](#ngsi-ld-api-for-accessing-digital-twin-information) for standardized
+[NGSI-LD Information model](#ngsi-ld-information-model-for-modeling-digital-twins) for formally modeling Digital Twins and the [NGSI-LD API](#ngsi-ld-api-for-accessing-digital-twin-information) for standardized
 access to their data and context. Next, it covers [Digital Twin Capabilities](#digital-twin-capabilities), including descriptive, predictive, prospective, prescriptive, and diagnostic functions. 
 The page then presents [Digital Twin Orchestration using FogFlow](#digital-twin-orchestration-using-fogflow) and outlines a [roadmap](#roadmap) for future developments, including 
 [service execution for actuation](#service-execution-for-supporting-actuation-and-instantiation-of-digital-twin-capabilities), 

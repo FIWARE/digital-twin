@@ -68,12 +68,12 @@ Since its inception, the initiative has published more than 900 Data Models, wit
 
 The NGSI-LD API offers a set of operations for **managing** and **accessing** Digital Twins. For accessing Digital Twins, it supports retrieving a specific Digital Twin, performing **queries** to discover and retrieve Digital Twins that match specified filter criteria in a single step, and **subscribing** to changes in Digital Twins to receive real-time updates. The NGSI-LD API is implemented by a **Context Broker**. There are different deployment options running from a single, **centralized Context Brokers** to **distributed and federated deployments** with multiple interacting Context Brokers.
 
-![Retrieving specific Digital Twin Route B7](images/Retrieving specific Digital Twin Route B7.png)
+![Retrieving specific Digital Twin Route B7](images/Retrieving_specific_Digital_Twin_Route_B7.png)
 *Figure: Retrieving specific Digital Twin "Route B7"*
 
 The example above shows the retrieval of the Digital Twin “Route B7” with all its segments, including their starting points and endpoints. The graph query goes to a depth of 2 and only id, type, hasPart (including startsAt and endsAt) are retrieved.
 
-![Querying all Digital Twins that have a segment that starts at Station II](images/Querying all Digital Twins that have a segment that starts at Station II.png)
+![Querying all Digital Twins that have a segment that starts at Station II](images/Querying_all_Digital_Twins_that_have_a_segment_that_starts_at_Station_II.png)
 *Figure: Querying all Digital Twins that have a segment that starts at “Station II”*  
 
 The example above shows the query for all Routes with a filter for those that have a segment that starts at “Station II”. As there is no Projection as in the example above that restricts the attributes to be retrieved, all fitting Entities, again to a depth of 2 are retrieved.
@@ -85,7 +85,7 @@ The example above shows the query for all Routes with a filter for those that ha
 
 Digital Twins can provide a range of progressively advanced capabilities that help organizations understand, anticipate, and manage the behavior of real-world assets. The **Descriptive Twin** captures the current and past states of an asset – both static and dynamic – and maintains a bidirectional connection between the real-world object and its digital representation. For example, a city’s Digital Twin may show the _current traffic conditions_ across different streets based on sensor data and historical records.
 
-![Overview of Digital Twin Capabilities](images/Overview of Digital Twin Capabilities.png)
+![Overview of Digital Twin Capabilities](images/Overview_of_Digital_Twin_Capabilities.png)
 *Figure: Overview of Digital Twin Capabilities*
 
 Building on this, the **Predictive Twin** adds the ability to forecast how the asset is likely to evolve in the future. In the traffic scenario, it could estimate the _traffic situation in 30 minutes_, combining real-time observations with historical patterns of similar conditions.

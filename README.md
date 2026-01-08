@@ -83,10 +83,10 @@ The example above shows the query for all Routes with a filter for those that ha
 
 ## Digital Twin Capabilities
 
+Digital Twins can provide a range of progressively advanced capabilities that help organizations understand, anticipate, and manage the behavior of real-world assets. The **Descriptive Twin** captures the current and past states of an asset – both static and dynamic – and maintains a bidirectional connection between the real-world object and its digital representation. For example, a city’s Digital Twin may show the _current traffic conditions_ across different streets based on sensor data and historical records.
+
 ![Overview of Digital Twin Capabilities](images/Overview of Digital Twin Capabilities.png)
 *Figure: Overview of Digital Twin Capabilities*
-
-Digital Twins can provide a range of progressively advanced capabilities that help organizations understand, anticipate, and manage the behavior of real-world assets. The **Descriptive Twin** captures the current and past states of an asset – both static and dynamic – and maintains a bidirectional connection between the real-world object and its digital representation. For example, a city’s Digital Twin may show the _current traffic conditions_ across different streets based on sensor data and historical records.
 
 Building on this, the **Predictive Twin** adds the ability to forecast how the asset is likely to evolve in the future. In the traffic scenario, it could estimate the _traffic situation in 30 minutes_, combining real-time observations with historical patterns of similar conditions.
 
@@ -137,8 +137,8 @@ Further extensions strengthen NGSI-LD’s 3D capabilities. A dedicated **_3DShap
 ## Summary of resources
 
 - **NGSI-LD information model for modelling digital twins**  
-  - [NGSI-LD INformation Model](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.03.01_60/gs_cim009v010301p.pdf) Specification
-  - [Introduction ot NGSI-LD Digital Twin Modeling\[slides\](https://www.fiware.org/wp-content/uploads/NGSI-LD-Digital-Twin-Modelling.pdf)
+  - [NGSI-LD Information Model](https://www.etsi.org/deliver/etsi_gs/CIM/001_099/009/01.03.01_60/gs_cim009v010301p.pdf) Specification
+  - [Introduction ot NGSI-LD Digital Twin Modeling\[slides\]](https://www.fiware.org/wp-content/uploads/NGSI-LD-Digital-Twin-Modelling.pdf)
 
 - **Smart Data Models (NGSI-LD compatible)**  
   - [Website](https://smartdatamodels.org)
